@@ -32,8 +32,14 @@ Make sure you have the following installed on your system:
 - [Postman](https://www.postman.com/) (optional for API testing)
 
 ### Installation
+ 
 
 1. Clone the repository:
 
    ```bash
    git clone https://github.com/BR30FBD/taskmanagemnetBackend.git
+2. Install the dependencies:
+
+   ```bash
+   npm install
+   ```
